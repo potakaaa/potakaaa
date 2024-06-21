@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://media.giphy.com/media/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e/giphy.gif" alt="GIF" width="300" height="200">
+      <img src="[https://media.giphy.com/media/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e/giphy.gif](https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg5NzE2MDYsIm5iZiI6MTcxODk3MTMwNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIxVDEyMDE0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwNTcxODk5MDgwODdjY2YyZWNiM2EzYTU4YTIzNTNkNWI3NzRkNGNhNzIzMDU0OTQxZjYzMjFjNDBmYzI1MzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WMCzaCJzptZ1NQioDXmnDWazzy3o-knhGosFSD_m79U)" alt="GIF" width="300" height="200">
     </td>
   </tr>
 </table>
