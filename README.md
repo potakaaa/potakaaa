@@ -40,18 +40,7 @@
 ## Projects
 
 <div align="center">
-  <a href="https://github.com/potakaaa/matrix-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=matrix-calculator&theme=tokyonight" alt="Matrix Calculator">
-  </a>
-  <a href="https://github.com/potakaaa/random_number_guesser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=random_number_guesser&theme=tokyonight" alt="Random Number Guesser">
-  </a>
-  <a href="https://github.com/potakaaa/square-bouncer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=square-bouncer&theme=tokyonight" alt="Square Bouncer">
-  </a>
-  <a href="https://github.com/potakaaa/PRIMART-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=PRIMART-SYSTEM&theme=tokyonight" alt="Primart: An Online Shopping Management System">
-  </a>
+
   <a href="https://github.com/potakaaa/USTEPALCO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=USTEPALCO&theme=tokyonight" alt="USTEPALCO: Electric Billing System">
   </a>
