@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/grldjr)](https://facebook.com/grldjr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jr.raldyyy)](https://www.instagram.com/jr.raldyyy)
 
-## About Me
+## About Me 👨‍💻
 
 <table>
   <tr>
@@ -21,7 +21,7 @@
         <li>💬 Ask me about: <b>Front-end</b></li>
         <li>📫 Reach me at: <b>helbirog@gmail.com</b></li>
         <li>😄 Pronouns: <b>he/him</b></li>
-        <li>⚡ Fun fact: <b>I love Python.</b></li>
+        <li>⚡ Fun fact: <b>I didn't dream of becoming a coder when I was little.</b></li>
       </ul>
     </td>
     <td valign="top">
@@ -30,14 +30,14 @@
   </tr>
 </table>
 
-## GitHub Stats
+## GitHub Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=potakaaa&show_icons=true&theme=tokyonight" alt="Your GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potakaaa&layout=compact&theme=tokyonight" alt="Top Langs">
 </div>
 
-## Projects
+## Projects 🚀
 
 <div align="center">
   <a href="https://github.com/potakaaa/matrix-calculator">
