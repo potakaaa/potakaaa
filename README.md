@@ -1,16 +1,49 @@
-## Hi there 👋
+# Welcome! I'm Rald! 👋
 
-<!--
-**potakaaa/potakaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://media.giphy.com/media/your-banner-gif-link/giphy.gif)
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/potakaaa?label=Follow&style=social)](https://github.com/potakaaa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)](https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/grldjr)](https://facebook.com/grldjr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jr.raldyyy)](https://www.instagram.com/jr.raldyyy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+<table>
+  <tr>
+    <td valign="top">
+      <p>Hi, I'm Rald!</p>
+      <ul>
+        <li>🌱 Learning: **C++**</li>
+        <li>🔭 Working on: **Matrix Calculator**</li>
+        <li>💬 Ask me about: **Front-end**</li>
+        <li>📫 Reach me at: helbirog@gmail.com</li>
+        <li>😄 Pronouns: **he/him**</li>
+        <li>⚡ Fun fact: **I didn't dream of becoming a coder when I was little.**</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://media.giphy.com/media/your-side-gif-link/giphy.gif" alt="GIF" width="300" height="200">
+    </td>
+  </tr>
+</table>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=potakaaa&show_icons=true&theme=tokyonight" alt="Your GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potakaaa&layout=compact&theme=tokyonight" alt="Top Langs">
+</div>
+
+## Projects
+
+<div align="center">
+  <a href="https://github.com/potakaaa/matrix-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=project1&theme=tokyonight" alt="Project 1">
+  </a>
+  <a href="https://github.com/potakaaa/random_number_guesser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=project2&theme=tokyonight" alt="Project 2">
+  </a>
+</div>
+
+![Footer GIF](https://media.giphy.com/media/your-footer-gif-link/giphy.gif)
