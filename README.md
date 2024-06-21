@@ -21,7 +21,7 @@
         <li>💬 Ask me about: <b>Front-end</b></li>
         <li>📫 Reach me at: <b>helbirog@gmail.com</b></li>
         <li>😄 Pronouns: <b>he/him</b></li>
-        <li>⚡ Fun fact: <b>I didn't dream of becoming a coder when I was little.</b></li>
+        <li>⚡ Fun fact: <b>I love Python.</b></li>
       </ul>
     </td>
     <td valign="top">
