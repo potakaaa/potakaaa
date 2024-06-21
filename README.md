@@ -1,6 +1,6 @@
 # Welcome! I'm Rald! 👋
 
-![Profile Banner](https://media.giphy.com/media/your-banner-gif-link/giphy.gif)
+![Profile Banner](https://media.giphy.com/media/x00bD8blTGIPwGOCuV/giphy.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/potakaaa?label=Follow&style=social)](https://github.com/potakaaa)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)](https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)
@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://media.giphy.com/media/your-side-gif-link/giphy.gif" alt="GIF" width="300" height="200">
+      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="300" height="200">
     </td>
   </tr>
 </table>
@@ -46,4 +46,4 @@
   </a>
 </div>
 
-![Footer GIF](https://media.giphy.com/media/your-footer-gif-link/giphy.gif)
+![Footer GIF](https://media.giphy.com/media/hQ0GvkpZwYcgM/giphy.gif)
