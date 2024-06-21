@@ -49,5 +49,5 @@
 </div>
 
 <div align="center">
-  ![Footer GIF](https://media.giphy.com/media/hQ0GvkpZwYcgM/giphy.gif)
+  <img src="https://media.giphy.com/media/hQ0GvkpZwYcgM/giphy.gif" alt="GIF">
 </div>
