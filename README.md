@@ -41,6 +41,7 @@
   <a href="https://github.com/potakaaa/matrix-calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=matrix-calculator&theme=tokyonight" alt="Matrix Calculator">
   </a>
+  <p>Matrix Calculator: A tool to perform matrix operations such as addition, subtraction, multiplication, and finding determinants.</p>
   <a href="https://github.com/potakaaa/random_number_guesser">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=random_number_guesser&theme=tokyonight" alt="Random Number Guesser">
   </a>
