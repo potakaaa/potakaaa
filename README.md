@@ -52,6 +52,9 @@
   <a href="https://github.com/potakaaa/PRIMART-SYSTEM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=PRIMART-SYSTEM&theme=tokyonight" alt="Primart: An Online Shopping Management System">
   </a>
+  <a href="https://github.com/potakaaa/USTEPALCO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=USTEPALCO&theme=tokyonight" alt="USTEPALCO: Electric Billing System">
+  </a>
 </div>
 
 <div align="center">
