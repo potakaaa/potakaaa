@@ -15,7 +15,7 @@
     <td valign="top">
       <p>Hi, I'm Rald!</p>
       <ul>
-        <li>🌱 Learning: **C++**</li>
+        <li>🌱 Learning: __C++__</li>
         <li>🔭 Working on: **Matrix Calculator**</li>
         <li>💬 Ask me about: **Front-end**</li>
         <li>📫 Reach me at: helbirog@gmail.com</li>
