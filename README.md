@@ -39,10 +39,10 @@
 
 <div align="center">
   <a href="https://github.com/potakaaa/matrix-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=project1&theme=tokyonight" alt="Project 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=matrix-calculator&theme=tokyonight" alt="Matrix Calculator">
   </a>
   <a href="https://github.com/potakaaa/random_number_guesser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=project2&theme=tokyonight" alt="Project 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=random_number_guesser&theme=tokyonight" alt="Random Number Guesser">
   </a>
 </div>
 
