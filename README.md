@@ -1,6 +1,7 @@
 # Welcome! I'm Rald! 👋
 
-![Profile Banner](https://media.giphy.com/media/x00bD8blTGIPwGOCuV/giphy.gif)
+
+[![Profile Banner](https://media.giphy.com/media/x00bD8blTGIPwGOCuV/giphy.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/potakaaa?label=Follow&style=social)](https://github.com/potakaaa)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)](https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)
@@ -41,7 +42,6 @@
   <a href="https://github.com/potakaaa/matrix-calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=matrix-calculator&theme=tokyonight" alt="Matrix Calculator">
   </a>
-  <p>Matrix Calculator: A tool to perform matrix operations such as addition, subtraction, multiplication, and finding determinants.</p>
   <a href="https://github.com/potakaaa/random_number_guesser">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=random_number_guesser&theme=tokyonight" alt="Random Number Guesser">
   </a>
