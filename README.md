@@ -1,7 +1,8 @@
 # Welcome! I'm Rald! 👋
 
-
-[![Profile Banner](https://media.giphy.com/media/x00bD8blTGIPwGOCuV/giphy.gif)
+<div align="center">
+  [![Profile Banner](https://media.giphy.com/media/x00bD8blTGIPwGOCuV/giphy.gif)
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/potakaaa?label=Follow&style=social)](https://github.com/potakaaa)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)](https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)
@@ -16,11 +17,11 @@
       <p>Hi, I'm Rald!</p>
       <ul>
         <li>🌱 Learning: <b>C++</b></li>
-        <li>🔭 Working on: **Matrix Calculator**</li>
-        <li>💬 Ask me about: **Front-end**</li>
-        <li>📫 Reach me at: helbirog@gmail.com</li>
-        <li>😄 Pronouns: **he/him**</li>
-        <li>⚡ Fun fact: **I didn't dream of becoming a coder when I was little.**</li>
+        <li>🔭 Working on: <b>Matrix Calculator</b></li>
+        <li>💬 Ask me about: <b>Front-end</b></li>
+        <li>📫 Reach me at: <b>helbirog@gmail.com</b></li>
+        <li>😄 Pronouns: <b>he/him</b></li>
+        <li>⚡ Fun fact: <b>I didn't dream of becoming a coder when I was little.</b></li>
       </ul>
     </td>
     <td valign="top">
@@ -47,4 +48,6 @@
   </a>
 </div>
 
-![Footer GIF](https://media.giphy.com/media/hQ0GvkpZwYcgM/giphy.gif)
+<div align="center">
+  ![Footer GIF](https://media.giphy.com/media/hQ0GvkpZwYcgM/giphy.gif)
+</div>
