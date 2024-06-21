@@ -1,7 +1,7 @@
 # Welcome! I'm Rald! 👋
 
 <div align="center">
-  [![Profile Banner](https://media.giphy.com/media/x00bD8blTGIPwGOCuV/giphy.gif)
+  <img src="https://media.giphy.com/media/x00bD8blTGIPwGOCuV/giphy.gif" alt="GIF">
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/potakaaa?label=Follow&style=social)](https://github.com/potakaaa)
