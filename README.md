@@ -43,6 +43,9 @@
   <a href="https://github.com/potakaaa/matrix-calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=matrix-calculator&theme=tokyonight" alt="Matrix Calculator">
   </a>
+  <a href="https://github.com/potakaaa/expense-tracker_mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=expense-tracker_mobile&theme=tokyonight" alt="Expense Tracker Mobile">
+  </a>
   <a href="https://github.com/potakaaa/random_number_guesser">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=random_number_guesser&theme=tokyonight" alt="Random Number Guesser">
   </a>
