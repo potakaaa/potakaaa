@@ -1,65 +1,73 @@
-# Welcome! I'm Rald! 👋
+# Hey there! 👋 Welcome to **Rald's Hub**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="GIF">
-</div>
+### 🎉 Meet the Creator  
+Hi, I’m **Rald** – a developer who codes by day and edits videos by night.  
+I turn **crazy ideas** into **awesome projects** and **simple footage** into **cinematic art**. 🚀  
 
-[![GitHub followers](https://img.shields.io/github/followers/potakaaa?label=Follow&style=social)](https://github.com/potakaaa)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)](https://www.linkedin.com/in/gerald-helbiro-jr-83880a212)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/grldjr)](https://facebook.com/grldjr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jr.raldyyy)](https://www.instagram.com/jr.raldyyy)
+🌍 Based in **Philippines**  
+💻 Open to collaboration and new opportunities!  
+🎯 **Goal:** Keep learning, creating, and inspiring.  
 
-## About Me 👨‍💻
+---
 
-<table>
-  <tr>
-    <td valign="top">
-      <p>Hi, I'm Rald!</p>
-      <ul>
-        <li>🌱 Learning: <b>React</b></li>
-        <li>🔭 Working on: <b>A lot of research</b></li>
-        <li>💬 Ask me about: <b>Front-end</b></li>
-        <li>📫 Reach me at: <b>helbirog@gmail.com</b></li>
-        <li>😄 Pronouns: <b>he/him</b></li>
-        <li>⚡ Fun fact: <b>I !hate Python</b></li>
-      </ul>
-    </td>
-    <td valign="top">
-      <img src="https://media.giphy.com/media/Jap1tdjahS0rm/giphy.gif" alt="GIF" width="300" height="200">
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech & Creative Arsenal  
 
-## GitHub Stats 📊
+#### 💻 Programming & Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potakaaa&show_icons=true&theme=tokyonight" alt="Your GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potakaaa&layout=compact&theme=tokyonight" alt="Top Langs">
-</div>
+#### 🎨 Creative Wizardry  
+<p align="left">
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-%23F29D00.svg?style=flat&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/After%20Effects-%23CF96FD.svg?style=flat&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
+</p>
 
-## Projects 🚀
+---
 
-<div align="center">
-  <a href="https://github.com/potakaaa/matrix-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=matrix-calculator&theme=tokyonight" alt="Matrix Calculator">
-  </a>
-  <a href="https://github.com/potakaaa/expense-tracker_mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=expense-tracker_mobile&theme=tokyonight" alt="Expense Tracker Mobile">
-  </a>
-  <a href="https://github.com/potakaaa/random_number_guesser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=random_number_guesser&theme=tokyonight" alt="Random Number Guesser">
-  </a>
-  <a href="https://github.com/potakaaa/square-bouncer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=square-bouncer&theme=tokyonight" alt="Square Bouncer">
-  </a>
-  <a href="https://github.com/potakaaa/PRIMART-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=PRIMART-SYSTEM&theme=tokyonight" alt="Primart: An Online Shopping Management System">
-  </a>
-  <a href="https://github.com/potakaaa/USTEPALCO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potakaaa&repo=USTEPALCO&theme=tokyonight" alt="USTEPALCO: Electric Billing System">
-  </a>
-</div>
+### 🔥 Dynamic GitHub Stats  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/428dIJljoEbxS/giphy.gif" alt="GIF">
-</div>
+#### 📈 Transparent Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=potakaaa&show_icons=true&hide_title=true&theme=transparent" alt="Transparent GitHub Stats" />
+</p>
+
+#### 🏆 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potakaaa&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
+#### ✨ The Grind Never Stops!  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&theme=transparent" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Watch Contributions Turn into a Snake!  
+<p align="center">
+  <img src="https://github.com/potakaaa/potakaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
+### 🌐 Let's Connect!  
+
+📫 Reach out to me on social media:  
+<p align="left">
+  <a href="https://facebook.com/grldjr" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/jr.raldyyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/gerald-helbiro-jr-83880a212" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+✨ *Profile powered by [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)*  
