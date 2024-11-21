@@ -16,8 +16,8 @@
     <td valign="top">
       <p>Hi, I'm Rald!</p>
       <ul>
-        <li>🌱 Learning: <b>React Native</b></li>
-        <li>🔭 Working on: <b>Matrix Calculator</b></li>
+        <li>🌱 Learning: <b>React</b></li>
+        <li>🔭 Working on: <b>A lot of research</b></li>
         <li>💬 Ask me about: <b>Front-end</b></li>
         <li>📫 Reach me at: <b>helbirog@gmail.com</b></li>
         <li>😄 Pronouns: <b>he/him</b></li>
