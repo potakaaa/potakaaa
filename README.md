@@ -1,7 +1,7 @@
 # Hey there! 👋 Welcome to **Rald's Hub**
 
 ### 🎉 Meet the Creator  
-Hi, I’m **Rald** – a developer who codes by day and edits videos by night.  
+Hi, I’m **Rald**.  
 I turn **crazy ideas** into **awesome projects** and **simple footage** into **cinematic art**. 🚀  
 
 🌍 Based in **Philippines**  
