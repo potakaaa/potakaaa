@@ -1,73 +1,31 @@
-# Hey there! 👋 Welcome to **Rald's Hub**
+<h1 align="center">Hi 👋, I'm Rald</h1>
+<h3 align="center">An exhausted Computer Science student from Philippines.</h3>
 
-### 🎉 Meet the Creator  
-Hi, I’m **Rald**.  
-I turn **crazy ideas** into **awesome projects** and **simple footage** into **cinematic art**. 🚀  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=potakaaa&label=Profile%20views&color=0e75b6&style=flat" alt="potakaaa" /> </p>
 
-🌍 Based in **Philippines**  
-💻 Open to collaboration and new opportunities!  
-🎯 **Goal:** Keep learning, creating, and inspiring.  
+- 🔭 I’m currently working on [Regressionify](https://github.com/potakaaa/regressionify)
 
----
+- 🌱 I’m currently learning **React, Flask, Supabase**
 
-### 🛠️ Tech & Creative Arsenal  
+- 👨‍💻 All of my projects are available at [https://github.com/potakaaa](https://github.com/potakaaa)
 
-#### 💻 Programming & Development  
+- 💬 Ask me about **python, react**
+
+- 📫 How to reach me **helbirog@gmail.com**
+
+- ⚡ Fun fact **I !hate python**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+<a href="https://fb.com/grldjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grldjr" height="30" width="40" /></a>
+<a href="https://instagram.com/jr.raldyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jr.raldyyy" height="30" width="40" /></a>
 </p>
 
-#### 🎨 Creative Wizardry  
-<p align="left">
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-%23F29D00.svg?style=flat&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/After%20Effects-%23CF96FD.svg?style=flat&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=potakaaa&show_icons=true&locale=en&layout=compact" alt="potakaaa" /></p>
 
-### 🔥 Dynamic GitHub Stats  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potakaaa&show_icons=true&locale=en" alt="potakaaa" /></p>
 
-#### 📈 Transparent Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potakaaa&show_icons=true&hide_title=true&theme=transparent" alt="Transparent GitHub Stats" />
-</p>
-
-#### 🏆 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potakaaa&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
-#### ✨ The Grind Never Stops!  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&theme=transparent" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Watch Contributions Turn into a Snake!  
-<p align="center">
-  <img src="https://github.com/potakaaa/potakaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
----
-
-### 🌐 Let's Connect!  
-
-📫 Reach out to me on social media:  
-<p align="left">
-  <a href="https://facebook.com/grldjr" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/jr.raldyyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/gerald-helbiro-jr-83880a212" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
-
-✨ *Profile powered by [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&" alt="potakaaa" /></p>
