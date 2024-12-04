@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=potakaaa&label=Profile%20views&color=0e75b6&style=flat" alt="potakaaa" />
 </p>
 
-<p align="left">
+<p align="center">
   🔭 I’m currently working on <a href="https://github.com/potakaaa/trailmarket">TrailMarket</a><br>
   🌱 I’m currently learning <strong>React, Flask, Supabase</strong><br>
   👨‍💻 All of my projects are available at <a href="https://github.com/potakaaa">GitHub</a><br>
