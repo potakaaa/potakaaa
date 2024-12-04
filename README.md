@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=potakaaa&label=Profile%20views&color=0e75b6&style=flat" alt="potakaaa" />
 </p>
 
-<p align="center">
-  🔭 I’m currently working on <a href="https://github.com/potakaaa/regressionify">Regressionify</a><br>
+<p align="left">
+  🔭 I’m currently working on <a href="https://github.com/potakaaa/trailmarket">TrailMarket</a><br>
   🌱 I’m currently learning <strong>React, Flask, Supabase</strong><br>
   👨‍💻 All of my projects are available at <a href="https://github.com/potakaaa">GitHub</a><br>
   💬 Ask me about <strong>Python, React</strong><br>
   📫 How to reach me: <strong>helbirog@gmail.com</strong><br>
-  ⚡ Fun fact: <strong>I !hate Python</strong>
+  ⚡ Fun fact: <strong>I !hate Tailwind CSS</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
