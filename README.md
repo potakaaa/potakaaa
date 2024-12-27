@@ -49,10 +49,10 @@
   
   <h2>/ github stats /</h2>
   <a href="https://github.com/potakaaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=potakaaa&theme=darcula&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=potakaaa&theme=rose_pine&show_icons=true" />
   </a>
   <a href="https://github.com/potakaaa">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&theme=darcula" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&theme=rose_pine" />
   </a>
   
   <h2>/ contribution snake /</h2>
