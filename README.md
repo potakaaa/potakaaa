@@ -54,9 +54,9 @@
   
   <h2>/ let's connect /</h2>
   <p>
-    <a href="helbirog@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.facebook.com/grldjr" target="_blank"><img height="28" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.instagram.com/jr.raldyyy/" target="_blank"><img height="28" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/gerald-helbiro-jr-83880a212/" target="_blank"><img height="28" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
   
 </div>
