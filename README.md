@@ -47,6 +47,14 @@
   <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
     </div>
   
+  <h2>/ github stats /</h2>
+  <a href="https://github.com/potakaaa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
+  </a>
+  <a href="https://github.com/potakaaa">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
+  </a>
+  
   <h2>/ contribution snake /</h2>
   <p align="center">
     <img src="https://github.com/potakaaa/potakaaa/blob/output/github-snake-dark.svg" alt="snake">
