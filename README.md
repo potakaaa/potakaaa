@@ -48,12 +48,14 @@
     </div>
   
   <h2>/ github stats /</h2>
+  <p align="center">
   <a href="https://github.com/potakaaa">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=potakaaa&theme=rose_pine&show_icons=true" />
   </a>
   <a href="https://github.com/potakaaa">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&theme=rose_pine" />
   </a>
+  </p>
   
   <h2>/ contribution snake /</h2>
   <p align="center">
