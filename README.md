@@ -7,8 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+potakaaa.;I'm+a+student+based+on+Philippines.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
-## Contribution Snake 
+## Contribution Snake
+<div align="center">
 ![snake gif](https://github.com/potakaaa/potakaaa/blob/output/github-snake-dark.svg)
+</div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
