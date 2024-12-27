@@ -10,7 +10,7 @@
 
 
 ## Contribution Snake 
-![snake gif](https://github.com/potakaaa/potakaaa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/potakaaa/potakaaa/blob/output/github-snake-dark.svg)
 
 <h2> / about me /</h2>
   
