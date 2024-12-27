@@ -1,7 +1,5 @@
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-
 <h1 align="center">Hi 👋, I'm Rald</h1>
 
 <h2 align="center">
@@ -11,6 +9,8 @@
 
 ## Contribution Snake 
 ![snake gif](https://github.com/potakaaa/potakaaa/blob/output/github-snake-dark.svg)
+
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h2> / about me /</h2>
   
