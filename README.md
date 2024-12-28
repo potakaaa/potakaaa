@@ -61,6 +61,13 @@
   </a>
   </td>
        </tr>
+     <tr>
+       <td>
+         <a href="https://github.com/potakaaa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potakaaa&langs_count=8&count_private=true&layout=compact&theme=rose_pine&hide_border=true&bg_color=0D1117"/>
+  </a>
+       </td>
+     </tr>
    </table>
  
   
