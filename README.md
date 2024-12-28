@@ -48,7 +48,7 @@
     </div>
   
   <h2>/ github stats /</h2>
-<table>
+<table align="center" width="100%">
   <tr>
     <td align="center">
   <a href="https://github.com/potakaaa">
