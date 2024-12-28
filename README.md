@@ -48,7 +48,7 @@
     </div>
   
   <h2>/ github stats /</h2>
-
+<p align="center">
   <a href="https://github.com/potakaaa">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&theme=rose_pine" />
   </a>
@@ -56,6 +56,7 @@
   <a href="https://github.com/potakaaa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=rose_pine" />
   </a>
+  </p>
 
  
   
