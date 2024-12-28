@@ -10,7 +10,7 @@
   
   <h2> / about me /</h2>
     
-  - ⭐ currently working on <a href="https://github.com/potakaaa/regressionify">**Regressionify**</a>
+  - ⭐ currently working on <a href="https://github.com/potakaaa/find-me">**find me**</a>
   - 💀 mostly working on **school research/projects**
   - 👾 a **student** working his way around things
   - 📫 reach me at **helbirog@gmail.com**
