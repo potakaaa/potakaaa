@@ -67,11 +67,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potakaaa&layout=compact&theme=rose_pine"/>
   </a>
        </td>
-       <td align="center">
-         <a href="https://github.com/potakaaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=potakaaa&theme=rose_pine"/>
-  </a>
-       </td>
      </tr>
    </table>
  
