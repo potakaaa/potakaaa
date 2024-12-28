@@ -64,7 +64,7 @@
      <tr>
        <td align="center">
          <a href="https://github.com/potakaaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=rose_pine"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=rose_pine"/>
   </a>
        </td>
      </tr>
