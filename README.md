@@ -7,7 +7,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+potakaaa.;I'm+a+student+based+on+Philippines.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
   
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-  
+  <br/>
   <h2> / about me /</h2>
     
   - ⭐ currently working on <a href="https://github.com/potakaaa/find-me">**find me**</a>
