@@ -65,8 +65,6 @@
   </tr>
 </table>
 
- 
-  
   <h2>/ contribution snake /</h2>
   <p align="center">
     <img src="https://github.com/potakaaa/potakaaa/blob/output/github-snake-dark.svg" alt="snake">
