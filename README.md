@@ -52,7 +52,11 @@
   <h2>/ github stats /</h2>
 <table align="center" width="100%">
   <tr>
-    
+    <td align="center">
+  <a href="https://github.com/potakaaa">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potakaaa&theme=rose_pine" />
+  </a>
+    </td>
 <td align="center">
   <a href="https://github.com/potakaaa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=rose_pine" />
