@@ -10,7 +10,7 @@
   <br/>
   <h2> / about me /</h2>
     
-  - ⭐ currently working on <a href="https://github.com/potakaaa/platebook">**platebook**</a>
+  - ⭐ currently working on <a href="https://github.com/potakaaa/diffinitely">**diffinitely**</a>
   - 💀 mostly working on **school research/projects**
   - 👾 a **student** working his way around things
   - 📫 reach me at **helbirog@gmail.com**
