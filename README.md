@@ -41,6 +41,7 @@
     <img src = "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt = "fastapi" />
     <img src = "https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" alt = "pydantic" />
     <img src = "https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt = "redis" />
+    <img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt = "docker" />
     
   
   - <h4> database </h4>
