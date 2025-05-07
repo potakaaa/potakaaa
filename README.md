@@ -10,7 +10,7 @@
   <br/>
   <h2> / about me /</h2>
     
-  - ⭐ currently working on <a href="https://github.com/potakaaa/diffinitely">**diffinitely**</a> and <a href="https://github.com/potakaaa/CERAE-I">**CERAE-I**</a>
+  - ⭐ currently working on <a href="https://github.com/potakaaa/gensight">**gensight**</a> and <a href="https://github.com/potakaaa/CERAE-I">**CERAE-I**</a>
   - 💀 mostly working on **school research/projects**
   - 👾 a **student** working his way around things
   - 📫 reach me at **helbirog@gmail.com**
