@@ -11,7 +11,7 @@
   <h2> / about me /</h2>
     
   - ⭐ currently working on <a href="https://github.com/potakaaa/gensight">**gensight**</a> and <a href="https://github.com/potakaaa/throng-pet-game">**Throng Pet Game**</a>
-  - 💀 mostly working on **school research/projects**
+  - 💀 mostly working on **work applications/self projects**
   - 👾 a **student** working his way around things
   - 📫 reach me at **helbirog@gmail.com**
     
