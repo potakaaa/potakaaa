@@ -10,7 +10,7 @@
   <br/>
   <h2> / about me /</h2>
     
-  - ⭐ currently working on <a href="https://github.com/potakaaa/gensight">**gensight**</a> and <a href="https://github.com/potakaaa/throng-pet-game">**Throng Pet Game**</a>
+  - ⭐ currently working on <a href="https://github.com/orgs/Automata-Search-Query-Simulator">**Automata Simulator**</a>
   - 💀 mostly working on **work applications/self projects**
   - 👾 a **full-stack developer** working his way around things
   - 📫 reach me at **helbirog@gmail.com**
