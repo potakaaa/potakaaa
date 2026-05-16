@@ -10,7 +10,7 @@
   <br/>
   <h2> / about me /</h2>
     
-  - ⭐ currently working on <a href="https://github.com/potakaaa/betterCDO">**Better CDO**</a>, <a href="https://github.com/potakaaa/aura">**AURA**</a>, <a href="https://github.com/pwedesi/shortcut-showdown">**Shortcut Showdown**</a>
+  - ⭐ currently working on <a href="https://github.com/potakaaa/aura">**AURA**</a>
   - 💀 mostly working on **work applications/self projects**
   - 👾 a **full-stack developer** working his way around things
   - 📫 reach me at **helbirog@gmail.com**
