@@ -10,9 +10,10 @@
   <br/>
   <h2> / about me /</h2>
     
-  - ⭐ currently working on <a href="https://github.com/potakaaa/aura">**AURA**</a>
+  - ⭐ currently working on <a href="https://github.com/potakaaa/cite-mind">**CiteMind**</a> & <a href="https://github.com/potakaaa/tftf-api">**TFTF API**</a>
   - 💀 mostly working on **work applications/self projects**
   - 👾 a **full-stack developer** working his way around things
+  - 🌐 portfolio: <a href="https://raldfolio.netlify.app/">**raldfolio.netlify.app**</a>
   - 📫 reach me at **helbirog@gmail.com**
     
   <h2> / current skills / </h2>
